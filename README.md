@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0001-two-sum) |
+| [2104-sum-of-subarray-ranges](https://github.com/anjalinimbalkar109/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0402-remove-k-digits) |
+| [2104-sum-of-subarray-ranges](https://github.com/anjalinimbalkar109/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -39,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0402-remove-k-digits) |
+| [2104-sum-of-subarray-ranges](https://github.com/anjalinimbalkar109/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
