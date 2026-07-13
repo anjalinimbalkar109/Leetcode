@@ -4,11 +4,11 @@ public:
         int i = 0;
         int n = s.length();
 
-        // Step 1: Skip leading spaces
+        // Skip leading spaces
         while (i < n && s[i] == ' ')
             i++;
 
-        // Step 2: Check sign
+        // Check sign
         int sign = 1;
         if (i < n && (s[i] == '+' || s[i] == '-')) {
             if (s[i] == '-')
@@ -16,15 +16,16 @@ public:
             i++;
         }
 
-        // Step 3: Convert digits
         long long num = 0;
 
+        // Read digits
         while (i < n && isdigit(s[i])) {
             int digit = s[i] - '0';
 
-            // Step 4: Check overflow
-            if (num > (INT_MAX - digit) / 10) {
-                return sign == 1 ? INT_MAX : INT_MIN;
+            // Overflow check
+            if (num > INT_MAX / 10 ||
+                (num == INT_MAX / 10 && digit > 7)) {
+                return (sign == 1) ? INT_MAX : INT_MIN;
             }
 
             num = num * 10 + digit;
