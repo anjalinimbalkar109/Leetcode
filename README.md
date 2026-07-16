@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0402-remove-k-digits) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anjalinimbalkar109/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Greedy
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjalinimbalkar109/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anjalinimbalkar109/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
 | ------- |
