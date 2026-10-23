@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjalinimbalkar109/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/anjalinimbalkar109/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -99,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
