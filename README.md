@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0136-single-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjalinimbalkar109/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/anjalinimbalkar109/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0620-not-boring-movies) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
