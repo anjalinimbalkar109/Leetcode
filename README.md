@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjalinimbalkar109/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/anjalinimbalkar109/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjalinimbalkar109/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -101,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anjalinimbalkar109/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
